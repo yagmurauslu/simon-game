@@ -1,1 +1,6 @@
-alert("hi");
+function nextSequence(){
+    let randomNumber = Math.floor(Math.random() * 4);
+
+};
+
+nextSequence();
